@@ -1,7 +1,6 @@
 const tens = document.querySelector('#tense');
 const seconds = document.querySelector('#seconds');
 const minutes = document.querySelector('#minutes');
-
 const startBtn = document.querySelector('#btn-start');
 const stopBtn = document.querySelector('#btn-stop');
 const resetBtn = document.querySelector('#btn-reset');

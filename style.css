@@ -18,7 +18,7 @@ body {
   margin-top: 30px;
   padding: 20px;
   border-radius: 5px;
-  box-shadow: 4px 6px 8px 2px rgba(218, 215, 215, 0.5);
+  box-shadow: 4px 6px 8px 6px rgba(3, 3, 3, 0.5);
 }
 
 .wrapper h1 {
@@ -27,7 +27,7 @@ body {
 
 .wrapper p {
   text-align: center;
-  font-size: 30px;
+  font-size: 33px;
 }
 
 .btns {
@@ -40,7 +40,6 @@ body {
   font-size: 20px;
   padding: 10px 20px;
   border: none;
-  /* border: 1px solid rgb(129, 127, 127); */
   border-radius: 3px;
   outline: none;
   cursor: pointer;
